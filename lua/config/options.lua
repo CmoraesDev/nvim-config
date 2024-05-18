@@ -23,6 +23,7 @@ vim.opt.wrap = false
 vim.opt.smartcase = true
 vim.opt.ignorecase = true
 vim.opt.inccommand = "split"
+vim.opt.hlsearch = false
 
 -- tabs & indent
 local TAB = 2
